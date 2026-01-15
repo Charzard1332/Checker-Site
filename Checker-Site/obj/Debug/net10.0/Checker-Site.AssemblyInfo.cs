@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Checker-Site")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d234aa3599f6900c4bb80006b003864b3f472e6e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+055d36e6ed871154b803da2b4c52cbc7efcca261")]
 [assembly: System.Reflection.AssemblyProductAttribute("Checker-Site")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Checker-Site")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
