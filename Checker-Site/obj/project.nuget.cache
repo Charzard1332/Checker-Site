@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2QTinX7/iQ4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Charlie\\Desktop\\Omes-Web\\Checker-Site\\Checker-Site\\Checker-Site.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charlie\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.1\\microsoft.aspnetcore.app.internal.assets.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
