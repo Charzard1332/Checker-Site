@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checker-Site", "Checker-Site\Checker-Site.csproj", "{2406BFAC-4ADE-46F2-96F6-2B1DFEC23EBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checker-Site-Shared", "Checker-Site-Shared\Checker-Site-Shared.csproj", "{6F06757C-AFB8-48DB-936D-ABE3B7109A03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{2406BFAC-4ADE-46F2-96F6-2B1DFEC23EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2406BFAC-4ADE-46F2-96F6-2B1DFEC23EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2406BFAC-4ADE-46F2-96F6-2B1DFEC23EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F06757C-AFB8-48DB-936D-ABE3B7109A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F06757C-AFB8-48DB-936D-ABE3B7109A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F06757C-AFB8-48DB-936D-ABE3B7109A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F06757C-AFB8-48DB-936D-ABE3B7109A03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
