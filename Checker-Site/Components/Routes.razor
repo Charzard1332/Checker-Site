@@ -6,4 +6,11 @@
         <RouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)" />
         <FocusOnNavigate RouteData="@routeData" Selector="h1" />
     </Found>
+    <!-- NotFound is deprecated so it might not have any real effect use NotFoundPage -->
+    <NotFound>
+        <PageTitle>Not Found</PageTitle>
+        <LayoutView Layout="@typeof(MainLayout)">
+            <p role="alert">Sorry there's nothing to see here</p>
+        </LayoutView>
+    </NotFound>
 </Router>
